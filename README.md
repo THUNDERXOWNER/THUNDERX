@@ -1,45 +1,45 @@
 <h1 align="center">
-<b> 『Lêɠêɳ̃dẞø†』🇮🇳 </b>
+<b> 『THUNDERX』🇮🇳 </b>
 </h1>
 
-[![LEGENDBOT](https://telegra.ph/file/2dd82644aa7f19518fe60.jpg)](https://github.com/LEGENDS-OP/LEGENDUSERBOT)
+[![THUNDERX](https://te.legra.ph/file/f9c161646a7a9b6f4aa9a.jpg)](https://github.com/LEGENDS-OP/LEGENDUSERBOT)
 
 <h6 align="center">
-  <b>⚡ LegendBot Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
+  <b>⚡ THUNDERX Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
 </h6>
 
 <p align="center">
-<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/LEGEND-OS/LEGENDBOT?style=flat&logo=github&color=success" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/LEGEND-OS/LEGENDBOT?style=flat&logo=github" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/LEGEND-OS/LEGENDBOT?label=Forks&logo=github" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/LEGEND-OS/LEGENDBOT?color=success" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/LEGEND-OS/LEGENDBOT?style=flat&logo=github&color=yellow" /> </a>
+<a href="https://github.com/THUNDERXOWNER/THUNDERX" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/THUNDEROWNER/THUNDERX?style=flat&logo=github&color=success" /> </a>
+<a href="https://github.com/THUNDERXOWNER/THUNDERX/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/THUNDEROWNER/THUNDERX?style=flat&logo=github" /> </a>
+<a href="https://github.com/THUNDEROWNER/THUNDERX/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/THUNDERXOWNER/THUNDERX?label=Forks&logo=github" /> </a>
+<a href="https://github.com/THUNDERXOWNER/THUNDERX" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/THUNDERXOWNER/THUNDERX?color=success" /> </a>
+<a href="https://github.com/THUNDERXOWNER/THUNDERX" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/THUNDERXOWNER/THUNDERX?style=flat&logo=github&color=yellow" /> </a>
 </p>
 <p align="center">
-<a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/LEGEND-OS/LEGENDBOT" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
+<a href="https://www.python.org" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
+<a href="https://github.com/THUNDERXOWNER/THUNDERX" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
+<a href="https://github.com/THUNDERXOWNER/THUNDERX" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/THUNDERXOWNER/THUNDERX" /> </a>
+<a href="https://github.com/THUNDERXOWNER/THUNDERX/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
 </p>
 <p align="center">
-<a href="https://t.me/Legend_Userbot" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
+<a href="https://t.me/THUNDERX_SUPPORT" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
+<a href="https://github.com/THUNDERXOWNER/THUNDERX/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
 <a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /> </a>
 </p>
 
 ------
 ## Status Of Bot 
 <p align="left">
-    <a href="https://github.com/LEGEND-OS/LEGENDBOT/network/members"><img src="https://img.shields.io/github/forks/LEGEND-OS/LEGENDBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-OS/LEGENDBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT?"></a>
+    <a href="https://github.com/THUNDERXOWNER/THUNDERX/network/members"><img src="https://img.shields.io/github/forks/THUNDERXOWNER/THUNDERX?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/THUNDERXOWNER/THUNDERX/stargazers"><img src="https://img.shields.io/github/stars/RHUNDERXOWNER/THUNDERX?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/THUNDERXOWNER/THUNDERX"></a><p align="left"><a href="https://github.com/THUNDERXOWNER/THUNDERX?"></a>
 
 ------
 ## Telegram 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/Legend_Userbot)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Official_LegendBot)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/THUNDERX_SUPPORT)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/OFFICIAL_THUNDERXBOT)
 
 ------
 ## YouTube 📺
-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvp8PY25PTRhFDZjLv3sVfg?style=social)](https://youtube.com/channel/UCvp8PY25PTRhFDZjLv3sVfg)
+- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvp8PY25PTRhFDZjLv3sVfg?style=social)](https://youtube.com/channel/UCu4mjBb3HkbEGLZjMuLbz_w)
 - [![YouTube Video Views](https://img.shields.io/youtube/views/9dQgdUJfk_k?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/9dQgdUJfk_k)
 
 ------------
@@ -57,16 +57,16 @@
 - Click Below Deploy To Heroku
 
 
-- [![Deploy](https://telegra.ph/file/1ded5ead2f8cc5828897a.jpg)](https://heroku.com/deploy/)
+- [![Deploy](https://te.legra.ph/file/f9c161646a7a9b6f4aa9a.jpg)](https://heroku.com/deploy/)
 
 ## Deploy Locally
 
 - Clone the repo. 
 
-`git clone https://github.com/The-LegendBot/LEGENDUSERBOT.git`
+`git clone https://github.com/THUNDERXOWNER/THUNDERX.git`
 - Open Cloned Folder.
 
-`cd LEGENDUSERBOT`
+`cd THUNDERXUSERBOT`
 - Create VirtualEnv.
 
 `virtualenv -p /usr/bin/python3 venv`
@@ -75,13 +75,13 @@
 - Install Requirements.
 
 `pip install -U -r requirements.txt`
-- Generate Legend STRING.
+- Generate THUNDERX STRING.
 
 `python LegendString.py`
 - Create config.py or rename exampleconfig.py to config.py. Fill All The Required Variables.
 - Finally Start LegendBot By Vps
 
-`bash ./LEGENDBOT/start.sh`
+`bash ./THUNDERX/start.sh`
 
 ---------
 
@@ -89,7 +89,7 @@
 
 - `APP_ID`  =  Get this value from my.telegram.org
 - `API_HASH`  =  Get this value from my.telegram.org
-- `LEGEND_STRING`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
+- `THUNDERX_STRING`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
 - `LOGGER_ID`  =  Make A Channel And Get it's ID.
 - `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
 - `BOT_USERNAME`  =  Get the username of that Bot made from [@Botfather](https://t.me/botfather)
@@ -110,7 +110,7 @@
     - Now Run StringSession Given Below:
    
 
-[![String](https://telegra.ph/file/a6bca4695a54de983c015.jpg)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
+[![String](https://te.legra.ph/file/f9c161646a7a9b6f4aa9a.jpg)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
 
     - Click On Generate String
     - Then Click On Green Run Button.
@@ -127,7 +127,7 @@
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
 - Note that Termux Doesn't show passwords when filled. Just paste your password and hit enter.
-- Your LegendBot Session Will be saved in your Telegram Saved Message.
+- Your THUNDERX Session Will be saved in your Telegram Saved Message.
 
 
 ------
@@ -146,9 +146,9 @@
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-LEGEND-OS
+THUNDERXOWNER
 
-Poject [LEGENDBOT](https://github.com/LEGEND-OS/LEGENDBOT) is free software: you can redistribute it and/or modify
+Poject [THUNDERX](https://github.com/THUNDERXOWNER/THUNDERX) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
