@@ -20,7 +20,7 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is LEGEND User",
-      "value": "Lêɠêɳ̃dẞøY",
+      "value": "THUNDERX",
       "required": false
     },
     "ALIVE_MSG": {
@@ -65,7 +65,7 @@
     },
     "AWAKE_PIC": {
       "description": "Put here any telegraph media link for awake pic in .awake Or .bot command.",
-      "value": "",
+      "value": "https://te.legra.ph/file/f9c161646a7a9b6f4aa9a.jpg",
       "required": false
     },
     "OP_PIC": {
