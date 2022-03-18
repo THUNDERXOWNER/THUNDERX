@@ -1,7 +1,7 @@
 {
-  "name": "Lêɠêɳ̃dẞø†",
-  "description": "Tнє ßєѕτ υѕєяϐοτ мα∂є ϐγ Lêɠêɳ̃dẞøY. Made with Love And By Python Language With Hardwork... ❤ ",
-  "logo": "https://te.legra.ph/file/d17467283e73c884834a5.jpg",
+  "name": "THUNDERX",
+  "description": "Tнє ßєѕτ υѕєяϐοτ мα∂є ϐγ THUNDERXOWNER. Made with Love And By Python Language With Hardwork... ❤ ",
+  "logo": "https://te.legra.ph/file/f9c161646a7a9b6f4aa9a.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -10,9 +10,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "website": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "success_url": "https://t.me/Legend_Userbot",
+  "repository": "https://THUNDERXOWNER/THUNDERX/",
+  "website": "https://github.com/THUNDERXOWNER/THUNDERX/",
+  "success_url": "https://t.me/THUNDERX_SUPPORT",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -25,7 +25,7 @@
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
-      "value": "Lêɠêɳ̃dẞø† is Online",
+      "value": "Thunderxboy is Online",
       "required": false
     },
     "ABUSE": {
