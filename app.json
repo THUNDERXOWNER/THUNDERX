@@ -6,7 +6,7 @@
     "telegram",
     "userbot",
     "plugin",
-    "legendbot",
+    "THUNDERX",
     "modular",
     "productivity"
   ],
@@ -19,12 +19,12 @@
       "value": "ANYTHING"
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name. By default it is LEGEND User",
+      "description": "Fill your Full name. By default it is THUNDERX User",
       "value": "THUNDERX",
       "required": false
     },
     "ALIVE_MSG": {
-      "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
+      "description": "Set Custom Alive Message When entering .alive Or .THUNDERX Command.",
       "value": "Thunderxboy is Online",
       "required": false
     },
@@ -90,7 +90,7 @@
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "𝙸 𝚊𝚖 𝙻𝚎𝚐𝚎𝚗𝚍.",
+      "value": "𝙸 𝚊𝚖 piro.",
       "required": true
     },
     "PM_PIC": {
