@@ -1,0 +1,48 @@
+
+
+_get_repolink () {
+    local regex
+    regex='(https?)://github.com/.+/.+'
+    if [[ $THUNDERX_REPO == "THUDERX" ]]
+    then
+        echo "aHR0cHM6Ly9naXRodWIuY29tL1RIVU5ERVJYT1dORVIvVEhVTkRFUlgvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
+    elif [[ $THUNDERX_REPO == "THUNDERX" ]]
+    then
+        echo "aHR0cHM6Ly9naXRodWIuY29tL1RIVU5ERVJYT1dORVIvVEhVTkRFUlgvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
+    elif [[ $THUNDERX_REPO =~ $regex ]]
+    then
+        if [[ $THUNDERX_REPO_BRANCH ]]
+        then
+            echo "${THUNDERX_REPO}/archive/${THUNDERX_REPO_BRANCH}.zip"
+        else
+            echo "${THUNDERX_REPO}/archive/master.zip"
+        fi
+    else
+        echo "aHR0cHM6Ly9naXRodWIuY29tL1RIVU5ERVJYT1dORVIvVEhVTkRFUlgvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
+    fi
+}
+
+
+_setting_bot () {
+    local zippath
+    zippath="THUNDERX.zip"
+    echo "  starting Downloading THUNDERX Source Code..."
+    wget -q $(_get_repolink) -O "$zippath"
+    echo "  Unpacking Data ho rha hai..."
+    THUNDERXPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
+    unzip -qq "$zippath"
+    echo "Done"
+    echo "  TUNDERX Cleaning.."
+    rm -rf "$zippath"
+    sleep 5
+    cd $THUNDERXPATH
+    echo "    ⚜️Starting Thunderx⚜️     "
+    echo "
+    🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳
+    "
+
+    python3 ../setup/updater.py ../requirements.txt requirements.txt
+    python3 -m userbot
+}
+
+_setting_bot
