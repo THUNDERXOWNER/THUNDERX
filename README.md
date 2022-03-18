@@ -77,7 +77,7 @@
 `pip install -U -r requirements.txt`
 - Generate THUNDERX STRING.
 
-`python LegendString.py`
+`python THUNDERXString.py`
 - Create config.py or rename exampleconfig.py to config.py. Fill All The Required Variables.
 - Finally Start LegendBot By Vps
 
